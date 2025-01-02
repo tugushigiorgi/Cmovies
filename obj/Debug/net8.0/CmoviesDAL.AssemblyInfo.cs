@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CmoviesDAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffa0e4041479330a0212e39b505d9c6060b71255")]
 [assembly: System.Reflection.AssemblyProductAttribute("CmoviesDAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CmoviesDAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
